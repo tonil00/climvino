@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "clinvino",
-    "slug": "clinvino",
+    "name": "climvino",
+    "slug": "climvino",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+    "backgroundColor": "#87AA1B"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
