@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://i.imgur.com/lGLbeyW.png" height="200" width="200">
     <h1>ClimVino mobile app</h1>
-    <strong>Opensource projct - student learning app in topics of gardening, care for vineyards and orchards</strong><br><br>
+    <strong>Opensource projct - students learning app in topics of gardening, care for vineyards and orchards</strong><br><br>
     <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" height="30">&nbsp;
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30">&nbsp;
 </div>
